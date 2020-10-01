@@ -123,7 +123,7 @@ input[type="checkbox"]{
 /* **************** IMAGE PRINCIPALE ************* */
 #imagePrincipale {
   padding-top: 60px;
-  background: url(media/imageonline-co-logoadded.jpg) no-repeat  50% 50%;
+  background: url(imageonline-co-logoadded.jpg) no-repeat  50% 50%;
   background-size: cover;
   height: 956px;
 }
@@ -177,7 +177,7 @@ nav a:hover
 	padding: 30px;
   color: #292b2f;
   margin-top: auto;
-  background: url(media/PVJGFh.jpg) repeat  50% 50%;    background-size: cover;
+  background: url(PVJGFh.jpg) repeat  50% 50%;    background-size: cover;
   height: 970px;
 }
 
@@ -292,7 +292,7 @@ h2
 
 #background
 {
-    background: url(media/High_resolution_wallpaper_background_ID_77700320740.jpg) repeat  50% 50%;    background-size: cover;
+    background: url(High_resolution_wallpaper_background_ID_77700320740.jpg) repeat  50% 50%;    background-size: cover;
     height: 100%;
 
     padding: 30px 50px;
@@ -362,7 +362,7 @@ label #sign-two
 .page
 {
   height: 2000px;
-  background: url(media/Minimalist-Backgrounds-33-1920-x-1080.jpg) repeat  50% 50%;    background-size: cover;  padding-top: 100px;
+  background: url(Minimalist-Backgrounds-33-1920-x-1080.jpg) repeat  50% 50%;    background-size: cover;  padding-top: 100px;
 }
 .title-skills
 {
